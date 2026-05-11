@@ -103,7 +103,7 @@ O projeto será refatorado futuramente com foco em:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/cinetrack.git
+git clone https://github.com/Brunodevit/cinetrack.git
 ```
 
 Acesse a pasta do projeto:
