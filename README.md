@@ -104,3 +104,34 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/seu-usuario/cinetrack.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd cinetrack
+```
+
+Entre na pasta `src`:
+
+```bash
+cd src
+```
+
+Instale as dependências do Node.js:
+
+```bash
+npm install
+```
+
+Inicie a aplicação:
+
+```bash
+npm start
+```
+
+Após iniciar, a aplicação estará disponível no navegador através do endereço exibido no terminal, normalmente:
+
+```bash
+http://localhost:3000
+```
